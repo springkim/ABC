@@ -1,0 +1,15 @@
+customtkinter
+tkinterdnd2
+natsort
+pillow
+puremagic
+pillow_heif
+tqdm
+pillow-avif-plugin
+filetype
+numpy
+pydub
+fleep
+dotted_dict
+pyinstaller
+pyperclip
